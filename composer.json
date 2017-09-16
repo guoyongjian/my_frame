@@ -1,0 +1,21 @@
+{
+	"name":"guoyongjian php",
+	"description":"work ceshi",
+	"type":"work",
+	"keyworks":[
+		"work","ceshi"
+	],
+	"require":{
+		"php":">=5.3.0",
+		"filp/whoops":"*",
+		"symfony/var-dumper":"*",
+		"catfan/medoo":"*",
+		"twig/twig":"*"
+	},
+	"repositories": {
+		"packagist": {
+			"type": "composer",
+			"url": "https://packagist.phpcomposer.com"
+		}
+	}
+}
